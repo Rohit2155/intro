@@ -1,0 +1,112 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+}
+p{
+  font-size: 20px;
+  font-family: 'Playfair Display', serif;
+}
+h2{
+  font-size: 2.5rem;
+    color:#66BFBF;
+    font-family: 'Caveat', cursive;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  color:#66BFBF;
+  font-size: 500%;
+font-family:Lucida Console, Lucida Sans Typewriter, monaco, Bitstream Vera Sans Mono, monospace;
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width:20%
+}
+
+.middle-container {
+}
+
+.top-container {
+  background-color: #d9eeec;
+  position: relative;
+  padding-top: 100px;
+}
+
+.xyz1{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.xyz{
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row{
+  width:50%;
+  margin:100px auto;
+  text-align: left;
+}
+.footer-link{
+  text-decoration: none;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.intro{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  font-size:20px;
+  font-style:italic;
+  font-family: 'Playfair Display', serif;
+  width:40%;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.butn{
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #0680cc);
+  background-image: -moz-linear-gradient(top, #3498db, #0680cc);
+  background-image: -ms-linear-gradient(top, #3498db, #0680cc);
+  background-image: -o-linear-gradient(top, #3498db, #0680cc);
+  background-image: linear-gradient(to bottom, #3498db, #0680cc);
+  -webkit-border-radius: 41;
+  -moz-border-radius: 41;
+  border-radius: 41px;
+  font-family: Georgia;
+  color: #0f090f;
+  font-size: 23px;
+  padding: 10px 10px 10px 10px;
+  border: solid #080e12 3px;
+  text-decoration: none;
+}
+
+.butn:hover{
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #e4f5f3);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #e4f5f3);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #e4f5f3);
+  background-image: -o-linear-gradient(top, #3cb0fd, #e4f5f3);
+  background-image: linear-gradient(to bottom, #3cb0fd, #e4f5f3);
+  text-decoration: none;
+}
+.MYPIC{
+  border-radius: 100%;
+  border: solid black 2px;
+}
+.bottom-container{
+  background-color: #99d8d0;
+}
